@@ -1,4 +1,5 @@
 YI M1 Mirrorless Camera Firmware Tools
+This is a fork,just update something.
 ======================================
 
 A firmware unpacker & repacker for YI M1 firmware files. Parses the section headers of a firmware file, extracts the sections into separate files, and splits and decompresses the firmware code section. It can also change the region of firmware files between Chinese (CN) to International (INT) to install the international firmware on Chinese models and vice versa.
@@ -105,6 +106,7 @@ To lay the roots for a firmware hack. To help with firmware analysis. To change 
 > How can I contribute?
 
 Please open an issue, pull request, or drop me a mail at mg@protyposis.net
+or mail to xiaolu34702@gmail.com ask for fork question
 
 > How dare you write this in JavaScript?
 
