@@ -1,7 +1,7 @@
 # YI M1 Mirrorless Camera Firmware Tools 📸  
 YI M1 微单相机固件工具 🛠️
 
-[English](#english) | [中文](#中文说明)
+[English](#english) | [Chinese](#chinese)
 
 ---
 
@@ -32,7 +32,7 @@ The output will be a number of files (usually 4) named `firmware.bin.{sectionNum
 
 ---
 
-## 中文说明 🇨🇳
+## Chinese 🇨🇳
 
 YI M1 微单相机固件工具 / 解包工具
 
