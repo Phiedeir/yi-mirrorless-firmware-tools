@@ -13,4 +13,6 @@ exports.versions = [
     ['C59Y1', 'M1INT', 'Ver1.38', '2.9.5-int (3.0 private beta)'],
     ['C59Y1', 'M1INT', 'Ver1.39', '3.0-int'],
     ['C59Y1', 'M1INT', 'Ver1.41', '3.1-int'],
+    ['C59Y1', 'M1INT', 'Ver1.42', '3.2-int'],
+    ['C59Y1', 'M1CN', 'Ver1.41', '3.1-cn'],
 ];
